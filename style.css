@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navBar1 {
+    background-color: #262632;
+    height: 15vh;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.leftSide {
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    align-items: center;
+    color: #cfcfdb;
+
+}
+
+.logo {
+    display: flex;
+    margin-left: 5px;
+    font-size: 20px;
+
+}
+
+.text {
+    display: flex;
+    text-indent: 40px;
+
+}
+
+.text li {
+    list-style: none;
+}
+
+.rightSide {
+    display: flex;
+    justify-content: flex-end;
+    width: 50%;
+    text-indent: 70px;
+    color: #8cb3a8;
+
+}
+
+.rightSide p {
+    display: flex;
+}
+
+.navBar2 {
+    background-color: #444af6;
+    height: 15vh;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+
+}
+
+.logo2 {
+    display: flex;
+    margin-left: 30px;
+    font-size: 20px;
+    color: #cfcfdb;
+
+}
+
+.salman {
+    display: flex;
+    width: 30%;
+}
+
+.rightSide2 {
+    display: flex;
+    justify-content: flex-end;
+    width: 60%;
+}
+
+.text2 {
+    display: flex;
+    text-indent: 30px;
+    color: #cfcfdb;
+}
+
+.text2 li {
+    list-style: none;
+}
+
+.icon {
+    display: flex;
+    text-indent: 30px;
+    font-size: 20px;
+    color: #edf1ff;
+}
+.navBar3{
+    background-color:aquamarine;
+    height: 15vh;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+}
+.leftSide2{
+    display: flex;
+    font-size: 20px;
+    margin-left: 30px;
+    color:#cfcfdb ;
+    
+}
+.text3{
+    display: flex;
+}
+.text3 li{
+    list-style: none;
+}
+.paris{
+    display: flex;  
+    width: 30%;                                                                                                                                                                                                                                                                                                                              ;
+}
+.rightSide3{
+    display: flex;
+}
+.icon2{
+    display: flex;
+    
+}
